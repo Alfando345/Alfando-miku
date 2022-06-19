@@ -48,10 +48,10 @@
     "62882008912405@s.whatsapp.net": {
       "status": 0,
       "autobio": false,
-      "autoread": false,
+      "autoread": true,
       "autoketik": false,
       "autorecord": false,
-      "autoonline": false,
+      "autoonline": true,
       "autooffline": false
     }
   },
