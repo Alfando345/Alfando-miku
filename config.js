@@ -7,7 +7,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.prems = ["62882021947109","6289510173767"]
+global.prems = ["6285764175824","6282181552813"]
 // Website Api
 global.APIs = {
 	zenz: 'https://zenzapi.xyz',
@@ -15,7 +15,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'f46748255951',
+	'https://zenzapi.xyz': '087b253e44',
 }
 
 // Other
@@ -43,14 +43,14 @@ global.mess = {
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: '_SABAR... ORANG SABAR DISAYANG TUHAN..._😉',
-    premi: 'Fitur Ini Hanya Digunakan Untuk User Premium!',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    premi: '_KAMU BUKAN MEMBER PREMIUM!!! SILAHKAN CHAT OWNER UNTUK MEMBELI PREMIUM!!!_',
+    endLimit: 'LIMIT HARIAN ANDA TELAH HABIS... _MAU BELI PREMIUM??? CHAT OWNER / WA.ME/6285764175824_',
     error: 'Maaf, Terjadi kesalahan',
     errorApi: 'Maaf, Terjadi kesalahan di Server-nya!'
 }
 global.limitawal = {
     premium: 999999999999999999999999,
-    free: 50
+    free: 15
 }
 
 global.junaAi = fs.readFileSync('./media/juna.png')
