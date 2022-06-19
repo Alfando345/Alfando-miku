@@ -21,10 +21,10 @@ global.APIKeys = {
 // Other
 global.botname = 'SHIZUKA-BOT'
 global.namasbot = 'Shizuka'
-global.wm = '© Shizu-Bot.... jangan lupa follow Instagram @alfando_3398'
+global.wm = 'Shizu-Bot'
 global.owner = ['6282181552813','6285764175824','6288216335309']
-global.packname = 'Orang Hitam'
-global.author = 'Api gratis'
+global.packname = 'Rival Abadi'
+global.author = 'SHIZUKA NO AI'
 global.sessionName = 'session'
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -35,14 +35,14 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '࿈'
 global.mess = {
-    success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    success: '_*DONE,* JANGAN RAGU UNTUK MENGGUNAKAN SELURUH FITUR SHIZUKA BOT, KARENA DATA ANDA AKAN DI HAPUS DALAM WAKTU SATU JAM DI SERVER, DAN DATA ANDA AKAN AMAN DARI ORANG LAIN_',
+    admin: '_MOHON MAAF, SEPERTINYA KAMU BUKAN ADMIN... KAMU HARUS MENJADI ADMIN TERLEBIH DAHULU UNTUK MENGGUNAKAN FITUR INI...',
+    botAdmin: '_ERROR, BOT BUKAN ADMIN_ kode:638383928Ecbs',
+    owner: '*Hanya bisa digunakan oleh owner bot!! mau punya bot sendiri??? WA.ME/6285764175824*',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: '_SABAR... ORANG SABAR DISAYANG TUHAN..._😉',
     premi: 'Fitur Ini Hanya Digunakan Untuk User Premium!',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
     error: 'Maaf, Terjadi kesalahan',
