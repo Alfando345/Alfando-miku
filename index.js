@@ -143,8 +143,8 @@ async function startJuna() {
                 } else {
                 atrei = await getBuffer(ppuser)
                 }
-                let tkks = `@${num.split("@")[0]} Leaving To ${metadata.subject}. Say Goodbye👋🏻`
-                juna.sendMessage(anu.id, { caption: tkks, location: { jpegThumbnail: atrei }, footer: 'Syukuran beban group keluar!', buttons: [{buttonId: `menu`, buttonText: {displayText: '𝗚𝗢𝗢𝗗𝗕𝗬𝗘'}, type: 1}], headerType: 'LOCATION', mentions: [num] })
+                let tkks = `@${num.split("@")[0]} Keluar Dari ${metadata.subject}. Say Goodbye👋🏻`
+                juna.sendMessage(anu.id, { caption: tkks, location: { jpegThumbnail: atrei }, footer: '𝘽𝙮𝙚𝙚 𝘽𝙚𝙗𝙖𝙣 𝙂𝙧𝙤𝙪𝙥', buttons: [{buttonId: `menu`, buttonText: {displayText: '𝙎𝘼𝙔𝙊𝙐𝙉𝘼𝙍𝘼'}, type: 1}], headerType: 'LOCATION', mentions: [num] })
                 }
             }
         } catch (err) {
