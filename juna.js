@@ -6601,7 +6601,7 @@ let tobdn = [{
                displayText: '𝗢𝗪𝗡𝗘𝗥',
                url: 'http://wa.me/6285764175824'
              }
-           },
+           }
          
            }]
 if (db.data.settings.displaymenu == 'gif') {
