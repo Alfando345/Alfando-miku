@@ -1348,11 +1348,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
                url: 'http://wa.me/6285764175824'
              }
            },
-           {
-             quickReplyButton: {
-               displayText: '𝗟𝗜𝗦𝗧 𝗠𝗘𝗡𝗨',
-               id: 'listmenu',
-             }
+         
            }]
            if (db.data.settings.displaymenu == 'gif') {
            juna.send5Gif(m.chat, sst, wm, menuvideo, tobdn)
@@ -6608,11 +6604,7 @@ let tobdn = [{
                url: 'http://wa.me/6285764175824'
              }
            },
-           {
-             quickReplyButton: {
-               displayText: '𝗟𝗜𝗦𝗧 𝗠𝗘𝗡𝗨',
-               id: 'listmenu',
-             }
+         
            }]
 if (db.data.settings.displaymenu == 'gif') {
 juna.send5Gif(m.chat, kkks, wm, menuvideo, tobdn)
