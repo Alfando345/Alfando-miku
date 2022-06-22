@@ -20,11 +20,11 @@ global.APIKeys = {
 
 // Other
 global.botname = 'SHIZUKA-BOT'
-global.namasbot = 'Shizuka'
+global.namasbot = '𝙎𝙝𝙞𝙯𝙪𝙠𝙖-𝙈𝘿'
 global.wm = 'Shizu-Bot'
-global.owner = ['6282181552813','6285764175824','6288216335309']
+global.owner = ['6282181552813','6285764175824']
 global.packname = 'Rival Abadi'
-global.author = 'SHIZUKA NO AI'
+global.author = '𝙃𝙖𝙮𝙪𝙠𝙠𝙠'
 global.sessionName = 'session'
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='

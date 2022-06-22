@@ -6746,12 +6746,12 @@ break
 case 'menu': case 'help':
 teksmenunya = `Hai Kak ${pushname}
 
-Saya ${author}, Bot WhatsApp Yang Membantu Kamu Membuat Sticker Dan Lainnya, Anda Butuh Info Dariku?`
+𝙎𝙖𝙮𝙖 𝙖𝙙𝙖𝙡𝙖𝙝 ${namabot}, 𝘽𝙤𝙩 𝙮𝙖𝙣𝙜 𝙗𝙚𝙧𝙛𝙪𝙣𝙜𝙨𝙞 𝙪𝙣𝙩𝙪𝙠 𝙢𝙚𝙢𝙗𝙪𝙖𝙩 𝙨𝙩𝙞𝙠𝙚𝙧 𝙙𝙖𝙣 𝙡𝙖𝙞𝙣 𝙡𝙖𝙞𝙣... 𝘼𝙥𝙖𝙠𝙖𝙝 𝙠𝙖𝙪 𝙗𝙪𝙩𝙪𝙝 𝙞𝙣𝙛𝙤 𝙙𝙖𝙧𝙞𝙠𝙪??? 𝙏𝙚𝙠𝙖𝙣 #𝙖𝙡𝙡𝙢𝙚𝙣𝙪 𝙪𝙣𝙩𝙪𝙠 𝙢𝙚𝙣𝙖𝙢𝙥𝙞𝙡𝙠𝙖𝙣 𝙨𝙚𝙢𝙪𝙖 𝙢𝙚𝙣𝙪, 𝘼𝙩𝙖𝙪 𝙩𝙚𝙠𝙖𝙣 𝙩𝙤𝙢𝙗𝙤𝙡 𝙙𝙞𝙗𝙖𝙬𝙖𝙝 𝙪𝙣𝙩𝙪𝙠 𝙢𝙚𝙣𝙚𝙢𝙥𝙞𝙡𝙠𝙖𝙣 𝙢𝙚𝙣𝙪...`
 
-footerteks = `Note: Kamu Pakai WA Lama Atau Mod, Dan Button Ga Keliatan, Langsung Aja Ketik ${prefix}allmenu
+footerteks = `𝙆𝙖𝙡𝙖𝙪 𝙠𝙖𝙢𝙪 𝙢𝙖𝙠𝙚 𝙬𝙖 𝙢𝙤𝙙, 𝙙𝙖𝙣 𝙜𝙖𝙠 𝙗𝙞𝙨𝙖 𝙡𝙞𝙝𝙖𝙩 𝙩𝙤𝙢𝙗𝙤𝙡 𝙙𝙞 𝙗𝙖𝙬𝙖𝙝, 𝙖𝙠𝙪 𝙥𝙪𝙣𝙮𝙖 𝙠𝙖𝙩𝙖² 𝙣𝙞𝙝... "𝙒𝘼 𝙆𝙊𝙆 𝙂𝘽..... 𝙃𝘼𝙃𝘼𝙃𝘼 𝙃𝘼𝙔𝙐𝙆...."
 
 ${wm}
-🔖Owner ${namasbot}: Jika Kamu Menemukan Semacam Bug Atau Error Silahkan Chat Ke Nomor Owner ${namasbot}`
+${namasbot}: 𝘼𝙙𝙖𝙡𝙖𝙝 𝘽𝙤𝙩 𝙮𝙖𝙣𝙜 𝙙𝙞 𝙠𝙚𝙢𝙗𝙖𝙣𝙜𝙠𝙖𝙣 𝙤𝙡𝙚𝙝 𝙨𝙚𝙤𝙧𝙖𝙣𝙜 𝙥𝙚𝙢𝙪𝙙𝙖 𝙮𝙖𝙣𝙜 𝙗𝙚𝙧𝙣𝙖𝙢𝙖 𝘼𝙡𝙛𝙖𝙣𝙙𝙤... 𝙗𝙚𝙡𝙞𝙖𝙪 𝙗𝙖𝙞𝙠 𝙝𝙖𝙩𝙞 𝙙𝙖𝙣 𝙨𝙪𝙠𝙖 𝙢𝙚𝙣𝙤𝙡𝙤𝙣𝙜.. 𝙠𝙖𝙡𝙖𝙪 𝙠𝙖𝙢𝙪 𝙢𝙚𝙣𝙚𝙢𝙪𝙠𝙖𝙣 𝙗𝙪𝙜 𝙖𝙩𝙖𝙪 𝙚𝙧𝙧𝙤𝙧, 𝙨𝙞𝙡𝙖𝙝𝙠𝙖𝙣 𝙘𝙝𝙖𝙩 𝙖𝙙𝙢𝙞𝙣 ${namasbot}`
 if (db.data.settings.displaymenu == 'gif') {
 juna.send5Gif(m.chat, teksmenunya, footerteks, menuvideo, buttonmenu)
 } else if (db.data.settings.displaymenu == 'image') {
