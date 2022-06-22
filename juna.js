@@ -1347,9 +1347,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
                displayText: '𝗢𝗪𝗡𝗘𝗥',
                url: 'http://wa.me/6285764175824'
              }
-           },
-         
-           }]
+                    }]
            if (db.data.settings.displaymenu == 'gif') {
            juna.send5Gif(m.chat, sst, wm, menuvideo, tobdn)
            } else if (db.data.settings.displaymenu == 'image') {
