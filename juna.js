@@ -1174,14 +1174,14 @@ let ownm = `┏━━━━━❲ 𝗢𝗪𝗡𝗘𝗥 🧑‍💻 ❳
 
 let tobnn = [{
              urlButton: {
-               displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-               url: 'https://s.id/chyoutubeku'
+               displayText: '𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠',
+               url: 'https://instagram.com/alfando_3398'
              }
            },
            {
              urlButton: {
-               displayText: '𝗪𝗘𝗕𝗦𝗜𝗧𝗘',
-               url: 'https://s.id/mikubot'
+               displayText: '𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗜𝗠𝗘',
+               url: 'http://chat.whatsapp.com/BdCuLyKLlFOB5F3C7YXGtn'
              }
            },
            {
@@ -1205,14 +1205,14 @@ let tobnn = [{
            
 let buttonmenu = [{
              urlButton: {
-               displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-               url: 'https://s.id/chyoutubeku'
+               displayText: '𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠',
+               url: 'https://instagram.com/alfando_3398'
              }
            },
            {
              urlButton: {
-               displayText: '𝗪𝗘𝗕𝗦𝗜𝗧𝗘',
-               url: 'https://s.id/mikubot'
+               displayText: '𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗜𝗠𝗘',
+               url: 'http://chat.whatsapp.com/BdCuLyKLlFOB5F3C7YXGtn'
              }
            },
            {
@@ -1331,15 +1331,15 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             let sst =  `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n0k Per Group via E-Walet 1 Month\n0k via pulsa 1 Month\n\n Premium Price Bot\n0k per User 1 bulan\n\nPayment can be via Gopay/Dana/pulsa\n\nFor more details, you can chat with the owner\n\nDonate For Me : via Gopay/Dana/pulsa`
            let tobdn = [{
              urlButton: {
-               displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-               url: 'https://s.id/chyoutubeku'
+               displayText: '𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠',
+               url: 'https://instagram.com/alfando_3398'
              }
 
            },
            {
              urlButton: {
-               displayText: '𝗪𝗘𝗕𝗦𝗜𝗧𝗘',
-               url: 'https://s.id/mikubot'
+               displayText: '𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗜𝗠𝗘',
+               url: 'http://chat.whatsapp.com/BdCuLyKLlFOB5F3C7YXGtn'
              }
            },
            {
@@ -1475,14 +1475,14 @@ juna.sendMessage(m.chat, listMessage, { quoted: fkontak})
               let jjs = `── 「 𝗧𝗥𝗨𝗧𝗛 」 ──\n\n${ttrth}`
               let tobn = [{
              urlButton: {
-               displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-               url: 'https://s.id/chyoutubeku'
+               displayText: '𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠',
+               url: 'https://instagram.com/alfando_3398'
              }
            },
            {
              urlButton: {
-               displayText: '𝗪𝗘𝗕𝗦𝗜𝗧𝗘',
-               url: 'https://s.id/mikubot'
+               displayText: '𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗜𝗠𝗘',
+               url: 'http://chat.whatsapp.com/BdCuLyKLlFOB5F3C7YXGtn'
              }
            },
            {
@@ -1515,14 +1515,14 @@ juna.sendMessage(m.chat, listMessage, { quoted: fkontak})
               let jjss = `── 「 𝗗𝗔𝗥𝗘 」 ──\n\n${der}`
               let tobni = [{
              urlButton: {
-               displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-               url: 'https://s.id/chyoutubeku'
+               displayText: '𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠',
+               url: 'https://instagram.com/alfando_3398'
              }
            },
            {
              urlButton: {
-               displayText: '𝗪𝗘𝗕𝗦𝗜𝗧𝗘',
-               url: 'https://s.id/mikubot'
+               displayText: '𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗜𝗠𝗘',
+               url: 'http://chat.whatsapp.com/BdCuLyKLlFOB5F3C7YXGtn'
              }
            },
            {
@@ -6528,7 +6528,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     + 'N:;Arrakis.;;;'
                     + 'FN:Arrakis.\n' // full name
                     + 'ORG:Owner Ganteng;\n' // the organization of the contact
-                    + 'item1.TEL;type=CELL;type=VOICE;waid=6285693352917:+6285693352917\n' // WhatsApp ID + phone number
+                    + 'item1.TEL;type=CELL;type=VOICE;waid=6285764175824:+6285764175824\n' // WhatsApp ID + phone number
                     + 'item1.X-ABLabel:OwnerGanteng\n'
                     + 'item2.EMAIL;type=INTERNET: xjuna5566@gmail.com\n'
                     + 'item2.X-ABLabel:Email\n'
@@ -6587,14 +6587,14 @@ let kkks = `┏━━━━❲ *BOT INFO* ❳━━━━
 ━━━━❲ ${botname} ❳━━━━`
 let tobdn = [{
              urlButton: {
-               displayText: '𝗪𝗘𝗕𝗦𝗜𝗧𝗘',
-               url: 'https://s.id/mikubot'
+               displayText: '𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗜𝗠𝗘',
+               url: 'http://chat.whatsapp.com/BdCuLyKLlFOB5F3C7YXGtn'
              }
            }, 
            {
              urlButton: {
-               displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-               url: 'https://s.id/chyoutubeku'
+               displayText: '𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠',
+               url: 'https://instagram.com/alfando_3398'
              }
            },
            {
