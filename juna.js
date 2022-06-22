@@ -6590,7 +6590,8 @@ let tobdn = [{
                displayText: '𝗪𝗘𝗕𝗦𝗜𝗧𝗘',
                url: 'https://s.id/mikubot'
              }
-           },{
+           }, 
+           {
              urlButton: {
                displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
                url: 'https://s.id/chyoutubeku'
@@ -6600,9 +6601,7 @@ let tobdn = [{
              urlButton: {
                displayText: '𝗢𝗪𝗡𝗘𝗥',
                url: 'http://wa.me/6285764175824'
-             }
-           }
-         
+             }   
            }]
 if (db.data.settings.displaymenu == 'gif') {
 juna.send5Gif(m.chat, kkks, wm, menuvideo, tobdn)
