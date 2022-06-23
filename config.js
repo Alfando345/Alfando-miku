@@ -50,7 +50,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: 999999999999999999999999,
-    free: 15
+    free: 100
 }
 
 global.junaAi = fs.readFileSync('./media/juna.png')
