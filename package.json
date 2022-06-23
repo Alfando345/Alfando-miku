@@ -21,7 +21,7 @@
   "author": "Dika Ardnt.",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.0.1",
+    "@adiwajshing/baileys": "^4.2.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^0.0.9",
     "@hapi/boom": "^9.1.4",
