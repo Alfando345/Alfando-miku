@@ -21,7 +21,7 @@ global.APIKeys = {
 // Other
 global.botname = 'SHIZUKA-BOT'
 global.namasbot = '𝙎𝙝𝙞𝙯𝙪𝙠𝙖-𝙈𝘿'
-global.wm = 'Shizu-Bot'
+global.wm = '𝗦𝗵𝗶𝘇𝘂𝗸𝗮'
 global.owner = ['6282181552813','6285764175824']
 global.packname = 'Rival Abadi'
 global.author = '𝙃𝙖𝙮𝙪𝙠𝙠𝙠'
@@ -36,15 +36,15 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '࿈'
 global.mess = {
     success: '_*DONE,* JANGAN RAGU UNTUK MENGGUNAKAN SELURUH FITUR SHIZUKA BOT, KARENA DATA ANDA AKAN DI HAPUS DALAM WAKTU SATU JAM DI SERVER, DAN DATA ANDA AKAN AMAN DARI ORANG LAIN_',
-    admin: '_MOHON MAAF, SEPERTINYA KAMU BUKAN ADMIN... KAMU HARUS MENJADI ADMIN TERLEBIH DAHULU UNTUK MENGGUNAKAN FITUR INI...',
-    botAdmin: '_ERROR, BOT BUKAN ADMIN_ kode:638383928Ecbs',
-    owner: '*Hanya bisa digunakan oleh owner bot!! mau punya bot sendiri??? WA.ME/6285764175824*',
+    admin: '𝙆𝙖𝙢𝙪 𝘽𝙪𝙠𝙖𝙣 𝙖𝙙𝙢𝙞𝙣',
+    botAdmin: 'hmm, Kayaknya bot bukan admin deh😁\nCoba lagi nanti kalau bot udah jadi admin...',
+    owner: '𝗞𝗵𝘂𝘀𝘂𝘀 𝗢𝘄𝗻𝗲𝗿',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: '_SABAR... ORANG SABAR DISAYANG TUHAN..._😉',
+    wait: '𝗧𝘂𝗻𝗴𝗴𝘂 𝘀𝗲𝗯𝗲𝘁𝗮𝗿😉',
     premi: '_KAMU BUKAN MEMBER PREMIUM!!! SILAHKAN CHAT OWNER UNTUK MEMBELI PREMIUM!!!_',
-    endLimit: 'LIMIT HARIAN ANDA TELAH HABIS... _MAU BELI PREMIUM??? CHAT OWNER / WA.ME/6285764175824_',
+    endLimit: 'LIMIT HARIAN ANDA TELAH HABIS... _MAU BELI PREMIUM??? CHAT OWNER_',
     error: 'Maaf, Terjadi kesalahan',
     errorApi: 'Maaf, Terjadi kesalahan di Server-nya!'
 }
