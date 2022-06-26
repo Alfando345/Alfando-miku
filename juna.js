@@ -6719,18 +6719,6 @@ const sections = [
 	    {title: "𝗢𝗪𝗡𝗘𝗥 🧑‍💻", rowId: ".menuowner", description: "❬-->> Tampilkan Fitur Owner <<--❭"}
 	]
     },
-    {
-	title: "𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢",
-	rows: [
-	    {title: "𝗔𝗟𝗟 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗕𝗢𝗧", rowId: "", description: "❬-->> Thanks For All This <<--❭"},
-	    {title: "𝗠𝗬 𝗦𝗘𝗟𝗙", rowId: "", description: "❬-->> Thanks For A.Farel.E <<--❭"},
-	    {title: "𝗗𝗜𝗞𝗔 𝗔𝗥𝗗𝗡𝗧", rowId: "", description: "❬-->> Thanks For Sc N Tell Me <<--❭\nWA : https://tinyurl.com/y7xntvpj\nGH : https://tinyurl.com/yas7jna5"},
-	    {title: "𝗙𝗔𝗧𝗜𝗛 𝗔𝗥𝗥𝗜𝗗𝗛𝗢", rowId: "", description: "❬-->> Thanks For Sc N Tell Me <<--❭\nWA : https://tinyurl.com/ybz8v3m9\nGH : https://tinyurl.com/ycchee7q\nYT : https://tinyurl.com/y7dvy369\nIG : https://tinyurl.com/y9tdopwz\nFB : https://tinyurl.com/ya9ace6p\nWS : https://tinyurl.com/y53zamhf"},
-	    {title: "𝗭𝗘𝗘𝗢𝗡𝗘 𝗢𝗙𝗖", rowId: "", description: "❬-->> Thanks For Sc <<--❭\nWA : https://tinyurl.com/ybouxx4y\nGH : https://tinyurl.com/ycrlrko3\nYT : https://tinyurl.com/y84vweol\nIG : https://tinyurl.com/ybx2qe2f"},
-	    {title: "𝗔𝗥𝗜𝗣 𝗦𝗞𝗜𝗨𝗪𝗘𝗥𝗦", rowId: "", description: "❬-->> Thanks For Sc Tell Me <<--❭\nWA : https://tinyurl.com/y8dxwh2u\nGH : https://tinyurl.com/y9pz4geg\nYT : https://tinyurl.com/y7sfag5l\nIG : https://tinyurl.com/ybxgkb2a"},
-	    {title: "𝗞𝗔𝗛𝗙𝗭𝗫𝗭𝗬", rowId: "", description: "❬-->> Thanks For Sc N Tell Me <<--❭\nWA : https://tinyurl.com/ybzyrpz2\nGH : https://tinyurl.com/ydey2hmy\nYT : https://tinyurl.com/ya2e8mjr\nIG : https://tinyurl.com/yc9fww3v"},
-	]
-    },
 ]
 
 const listMessage = {
