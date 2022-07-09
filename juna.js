@@ -6612,10 +6612,6 @@ juna.send5Loc(m.chat, kkks, wm, yahaha, tobdn)
 } else if (db.data.settings.displaymenu == 'video') {
 juna.send5Vid(m.chat, kkks, wm, menuvideo, tobdn)
 }
-/*
-break
-case 'listmenu':
-*/
 const sections = [
     {
 	title: "𝗠𝗘𝗡𝗨 𝗔𝗟𝗟",
